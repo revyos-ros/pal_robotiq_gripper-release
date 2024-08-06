@@ -2,6 +2,11 @@
 Changelog for package pal_robotiq_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.0 (2024-07-31)
+------------------
+* remove extra joint
+* Contributors: Aina
+
 2.0.3 (2024-05-06)
 ------------------
 * Merge branch 'fix/mimic_multiplier' into 'humble-devel'
