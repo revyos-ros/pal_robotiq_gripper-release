@@ -1,3 +1,33 @@
+## pal_robotiq_gripper (humble) - 2.2.0-2
+
+The packages in the `pal_robotiq_gripper` repository were released into the `humble` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r humble pal_robotiq_gripper --override-release-repository-push-url git@github.com:revyos-ros/pal_robotiq_gripper-release.git` on `Thu, 29 Aug 2024 02:59:00 -0000`
+
+These packages were released:
+- `pal_robotiq_controller_configuration`
+- `pal_robotiq_description`
+- `pal_robotiq_gripper`
+
+These packages were explicitly ignored:
+- `pal_robotiq_epick_gripper`
+- `pal_robotiq_gripper_wrapper`
+
+Version of package(s) in repository `pal_robotiq_gripper`:
+
+- upstream repository: https://github.com/pal-robotics/pal_robotiq_gripper.git
+- release repository: https://github.com/revyos-ros/pal_robotiq_gripper-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.2.0-1`
+- new version: `2.2.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## pal_robotiq_gripper (humble) - 2.2.0-1
 
 The packages in the `pal_robotiq_gripper` repository were released into the `humble` distro by running `/usr/bin/bloom-release --track humble --rosdistro humble -y pal_robotiq_gripper` on `Fri, 09 Aug 2024 07:07:56 -0000`
